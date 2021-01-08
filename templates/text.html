@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>FastAPI test</title>
+    </head>
+    <body>
+        <ul style="list-style: none;">
+        {% for obj in objs %}
+            <li>{{loop.index}}: {{obj.name}}, {{obj.email}}</li>
+        {% endfor %}
+        </ul>
+    </body>
+</html>
