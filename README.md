@@ -25,5 +25,5 @@ $ python main.py
 
 ## License
 
-&copy; 2020 [Ken Kurosaki](https://github.com/xqiik).  
-This project is [MIT](https://github.com/kenqlo/fastapi_study/blob/master/LICENSE) licensed.
+&copy; 2020 [Ken Kurosaki](https://github.com/quinpallet).  
+This project is [MIT](https://github.com/quinpallet/fastapi_study/blob/master/LICENSE) licensed.
